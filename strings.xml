@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shield</string>
+    <string name="svc_desc">Shield checks what is on your screen and blocks adult content. Nothing leaves your phone.</string>
+</resources>
